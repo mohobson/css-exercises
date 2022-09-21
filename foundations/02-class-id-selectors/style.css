@@ -1,0 +1,25 @@
+/* styles.css */
+
+.one,
+.three {
+    color: black;
+    background-color: pink;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+
+.three {
+    font-size: 32px;
+}
+
+#four {
+    color: black;
+    background-color: rgb(44, 220, 44);
+    font-weight: 800;
+    font-size: 44px;
+}
