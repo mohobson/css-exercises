@@ -1,0 +1,14 @@
+/* styles.css */
+
+.one,
+.two {
+    color: red;
+}
+
+.one {
+    background-color: black;
+}
+
+.two {
+    background-color: yellow;
+}
